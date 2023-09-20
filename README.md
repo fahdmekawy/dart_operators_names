@@ -1,6 +1,6 @@
 # Dart Operators Names
 
-This repository serves as a reference guide to Dart operators and their names. If you've ever wondered/forget what a particular operator is called in Dart, you're in the right place! 
+This repository serves as a reference guide to Dart operators and their names. If you've ever wondered/forgotten what a particular operator is called in Dart, you're in the right place! 
 
 ## Operators and Their Meanings
 
