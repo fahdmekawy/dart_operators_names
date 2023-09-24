@@ -15,3 +15,4 @@ Operator | Meaning
 ...?	| Null-aware spread operator
 .. | Cascade Operator
 ... | Spread Operator
+^ | Caret sign
