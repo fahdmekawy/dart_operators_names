@@ -18,3 +18,4 @@ Ternary Conditional Operator | ? : (isA ? true : false)
 ... | Spread Operator
 ^ | Caret sign
 => | fat arrow/arrow function
+& | the Ampersand
