@@ -20,4 +20,7 @@ Operator | Meaning
 => | fat arrow/arrow function
 & | the Ampersand
 Point.fromJson(int i): x = i {} | Initializer lists
+Automobile.hybrid(String name) : this(make, model, 60); | Redirecting constructors
+
+
 
