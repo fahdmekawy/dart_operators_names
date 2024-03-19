@@ -19,6 +19,5 @@ Operator | Meaning
 ^ | Caret sign
 => | fat arrow/arrow function
 & | the Ampersand
-Point.fromJson(int i)
-    : x = i {} | Initializer lists
+Point.fromJson(int i): x = i {} | Initializer lists
 
