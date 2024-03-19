@@ -7,7 +7,7 @@ This repository serves as a reference guide to Dart operators and their names. I
 Operator | Meaning
 --- | --- |
 ?? | Null-aware assignment operator
-Ternary Conditional Operator | ? : (isA ? true : false)
+? : (isA ? true : false)  | Ternary Conditional Operator
 ??=	 | If-null operator
 ?. | Null-aware access & method invocation operator
 ! |	Null assertion operator
@@ -19,3 +19,6 @@ Ternary Conditional Operator | ? : (isA ? true : false)
 ^ | Caret sign
 => | fat arrow/arrow function
 & | the Ampersand
+Point.fromJson(int i)
+    : x = i {} | Initializer lists
+
